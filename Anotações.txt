@@ -1,0 +1,5 @@
+- git clone -> clona um repositório para uma página local
+- git add file -> adiciona o arquivo file para o versionamento
+	OBS: git add . adiciona todos os arquivos
+-git commit -m "mensagem para o commit" -> Cria um instância para a seu repositório
+-git push origin main -> envia os commits locais para seu repositório no GitHub na branch "main"
