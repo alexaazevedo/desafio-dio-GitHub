@@ -1,3 +1,4 @@
 # Repositório do Desafio de Git/GitHub da DIO
 
-Desafio de Projeto I
+Nesse projeto é possível encontrar observações e anotações relevantes a progressão do Bootcamp e de .NET da DIO. 
+
